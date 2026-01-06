@@ -24,6 +24,8 @@ Practical patterns, architectures, and best practices for taking AI agents from 
 
 # GitHub Trending
 
-![GitHub Repo stars](https://img.shields.io/github/stars/patchy631/github-trending?style=social) ![GitHub forks](https://img.shields.io/github/forks/patchy631/github-trending?style=social) ![GitHub issues](https://img.shields.io/github/issues/patchy631/github-trending?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/patchy631/github-trending?style=social)
+![GitHub forks](https://img.shields.io/github/forks/patchy631/github-trending?style=social)
+![GitHub issues](https://img.shields.io/github/issues/patchy631/github-trending?style=social)
 
 A curated list of trending and high-impact GitHub repositories worth following.
