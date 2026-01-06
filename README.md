@@ -12,3 +12,8 @@ A practical, curated roadmap for becoming an AI Engineer. Covers GenAI, LLMs, to
 🔗 https://github.com/patchy631/ai-engineering-hub
 # github-trending
 Curated trending and high-quality GitHub repositories in AI, GenAI, and engineering
+
+### AI Terminology
+A clear and concise glossary of AI, ML, and GenAI terms for engineers and learners.
+
+🔗 https://github.com/piotr-liszka/ai-terminology
