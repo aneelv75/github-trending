@@ -1,28 +1,32 @@
-# GitHub Trending
+# 🚀 GitHub Trending
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/patchy631/github-trending?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/patchy631/github-trending?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/patchy631/github-trending?style=social)
-
-A curated list of trending and high-impact GitHub repositories worth following.
+![GitHub last commit](https://img.shields.io/github/last-commit/patchy631/github-trending)
 
 ---
 
-## 🔥 AI & Engineering
+A curated list of **trending and high-impact GitHub repositories** in AI, GenAI, and engineering.  
+Perfect for developers, learners, and AI enthusiasts who want to **stay ahead in 2026**.  
 
-### AI Engineering Hub
-A practical, curated roadmap for becoming an AI Engineer. Covers GenAI, LLMs, tools, projects, and real-world learning paths.
+---
 
-🔗 https://github.com/patchy631/ai-engineering-hub
+### 🔥 Featured Repos
 
+| Repo | Description |
+|------|------------|
+| [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) | Roadmap to become an AI Engineer with GenAI and LLM projects. |
+| [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Curated large language model resources for AI practitioners. |
+| [AI Terminology](https://github.com/piotr-liszka/ai-terminology) | Glossary of AI, ML, and GenAI terms for engineers and learners. |
+| [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) | Practical patterns for taking AI agents from prototypes to production. |
+| [Your next repo here] | Add short 1–2 line description. |
 
- ### AI Terminology
-A clear and concise glossary of AI, ML, and GenAI terms for engineers and learners.
+---
 
-🔗 https://github.com/piotr-liszka/ai-terminology
+✨ **Why follow this repo?**  
+- Updated regularly with trending AI repos  
+- Hand-picked resources for learning, building, and deploying AI  
+- Perfect starting point for projects or skill-building  
 
-### Agents Towards Production
-Practical patterns, architectures, and best practices for taking AI agents from prototypes to production.
-
-🔗 https://github.com/NirDiamant/agents-towards-production
-
+⭐ **If you find it useful, consider starring this repo!**
