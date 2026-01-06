@@ -20,7 +20,7 @@ Perfect for developers, learners, and AI enthusiasts who want to **stay ahead in
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Curated large language model resources for AI practitioners. |
 | [AI Terminology](https://github.com/piotr-liszka/ai-terminology) | Glossary of AI, ML, and GenAI terms for engineers and learners. |
 | [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) | Practical patterns for taking AI agents from prototypes to production. |
-| [Your next repo here] | Add short 1–2 line description. |
+
 
 ---
 
