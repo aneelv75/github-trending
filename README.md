@@ -20,6 +20,17 @@ Perfect for developers, learners, and AI enthusiasts who want to **stay ahead in
 | [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Curated large language model resources for AI practitioners. |
 | [AI Terminology](https://github.com/piotr-liszka/ai-terminology) | Glossary of AI, ML, and GenAI terms for engineers and learners. |
 | [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) | Practical patterns for taking AI agents from prototypes to production. |
+| [OpenAI Cookbook](https://github.com/openai/openai-cookbook) | Practical examples and guides for building apps with OpenAI APIs and LLMs. |
+| [LangChain](https://github.com/hwchase17/langchain) | Framework for developing LLM-powered applications and chatbots. |
+| [Awesome OpenAI](https://github.com/sindresorhus/awesome-openai) | Curated list of OpenAI tools, projects, and resources for developers. |
+| [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Scaffold and prototype AI apps using GPT models efficiently. |
+| [Hugging Face Transformers](https://github.com/huggingface/transformers) | State-of-the-art NLP models, training scripts, and model hub for AI developers. |
+| [Deep Learning Specialization](https://github.com/PacktPublishing/Deep-Learning-Specialization) | Hands-on deep learning projects and tutorials for practical learning. |
+| [AutoGPT](https://github.com/Torantulino/Auto-GPT) | Experimental open-source autonomous GPT agent for practical tasks. |
+| [Awesome GenAI](https://github.com/elyase/awesome-genai) | Curated list of generative AI tools, demos, and projects. |
+| [AI-Playground](https://github.com/suno-ai/ai-playground) | Collection of interactive AI demos and experiments to test models quickly. |
+| [AgentGPT](https://github.com/AgentGPT/AgentGPT) | Open-source framework to build and deploy AI agents with minimal setup. |
+
 
 
 ---
