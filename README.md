@@ -4,7 +4,7 @@ A curated list of trending and high-impact GitHub repositories worth following.
 
 ---
 
-## 🔥 AI & Engineering
+1 ## 🔥 AI & Engineering
 
 ### AI Engineering Hub
 A practical, curated roadmap for becoming an AI Engineer. Covers GenAI, LLMs, tools, projects, and real-world learning paths.
@@ -13,7 +13,7 @@ A practical, curated roadmap for becoming an AI Engineer. Covers GenAI, LLMs, to
 
 Curated trending and high-quality GitHub repositories in AI, GenAI, and engineering
 
-### AI Terminology
+2 ### AI Terminology
 A clear and concise glossary of AI, ML, and GenAI terms for engineers and learners.
 
 🔗 https://github.com/piotr-liszka/ai-terminology
