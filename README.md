@@ -1,10 +1,9 @@
 # 🚀 GitHub Trending
 
-![GitHub Repo stars](https://img.shields.io/github/stars/patchy631/github-trending?style=social)
-![GitHub forks](https://img.shields.io/github/forks/patchy631/github-trending?style=social)
-![GitHub issues](https://img.shields.io/github/issues/patchy631/github-trending?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/patchy631/github-trending)
-
+![GitHub stars](https://img.shields.io/github/stars/aneelv75/github-trending?style=social)
+![GitHub forks](https://img.shields.io/github/forks/aneelv75/github-trending?style=social)
+![GitHub issues](https://img.shields.io/github/issues/aneelv75/github-trending)
+![GitHub last commit](https://img.shields.io/github/last-commit/aneelv75/github-trending)
 ---
 
 A curated list of **trending and high-impact GitHub repositories** in AI, GenAI, and engineering.  
