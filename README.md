@@ -1,48 +1,148 @@
-# 🚀 GitHub Trending
+# 🚀 GitHub Trending — AI, GenAI & Engineering
 
-![GitHub stars](https://img.shields.io/github/stars/aneelv75/github-trending?style=social)
-![GitHub forks](https://img.shields.io/github/forks/aneelv75/github-trending?style=social)
-![GitHub issues](https://img.shields.io/github/issues/aneelv75/github-trending)
-![GitHub last commit](https://img.shields.io/github/last-commit/aneelv75/github-trending)
+![Stars](https://img.shields.io/github/stars/aneelv75/github-trending?style=social)
+![Forks](https://img.shields.io/github/forks/aneelv75/github-trending?style=social)
+![Last Updated](https://img.shields.io/github/last-commit/aneelv75/github-trending)
+![Awesome](https://awesome.re/badge.svg)
+
+A curated list of **50+ trending and high-impact GitHub repositories** in AI, GenAI, LLMs, and engineering.
+Updated weekly. Perfect for developers, learners, and AI enthusiasts who want to **stay ahead in 2026**.
+
 ---
 
-A curated list of **trending and high-impact GitHub repositories** in AI, GenAI, and engineering.  
-Perfect for developers, learners, and AI enthusiasts who want to **stay ahead in 2026**.  
-
----
-
-### 🔥 Featured Repos
-
-| Repo | Description |
-|------|------------|
-| [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) | Roadmap to become an AI Engineer with GenAI and LLM projects. |
-| [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | Curated large language model resources for AI practitioners. |
-| [AI Terminology](https://github.com/piotr-liszka/ai-terminology) | Glossary of AI, ML, and GenAI terms for engineers and learners. |
-| [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) | Practical patterns for taking AI agents from prototypes to production. |
-| [OpenAI Cookbook](https://github.com/openai/openai-cookbook) | Practical examples and guides for building apps with OpenAI APIs and LLMs. |
-| [LangChain](https://github.com/hwchase17/langchain) | Framework for developing LLM-powered applications and chatbots. |
-| [Awesome OpenAI](https://github.com/sindresorhus/awesome-openai) | Curated list of OpenAI tools, projects, and resources for developers. |
-| [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) | Scaffold and prototype AI apps using GPT models efficiently. |
-| [Hugging Face Transformers](https://github.com/huggingface/transformers) | State-of-the-art NLP models, training scripts, and model hub for AI developers. |
-| [Deep Learning Specialization](https://github.com/PacktPublishing/Deep-Learning-Specialization) | Hands-on deep learning projects and tutorials for practical learning. |
-| [AutoGPT](https://github.com/Torantulino/Auto-GPT) | Experimental open-source autonomous GPT agent for practical tasks. |
-| [Awesome GenAI](https://github.com/elyase/awesome-genai) | Curated list of generative AI tools, demos, and projects. |
-| [AI-Playground](https://github.com/suno-ai/ai-playground) | Collection of interactive AI demos and experiments to test models quickly. |
-| [AgentGPT](https://github.com/AgentGPT/AgentGPT) | Open-source framework to build and deploy AI agents with minimal setup. |
 ## 📌 Table of Contents
-- [🔥 Featured Repos](#-featured-repos)
 - [🤖 LLM Frameworks](#-llm-frameworks)
 - [🧠 AI Agents](#-ai-agents)
+- [🎨 Generative AI & Image](#-generative-ai--image)
 - [📚 Learning Resources](#-learning-resources)
-- [🛠️ Dev Tools](#️-dev-tools)
-
-
-
-
+- [🛠️ Dev Tools & Productivity](#-dev-tools--productivity)
+- [💬 Chat & Assistant UIs](#-chat--assistant-uis)
+- [🔍 RAG & Vector Databases](#-rag--vector-databases)
+- [⚡ Local LLMs](#-local-llms)
 
 ---
 
-✨ **Why follow this repo?**  
-- Updated regularly with trending AI repos  
-- Hand-picked resources for learning, building, and deploying AI  
-- Perfect starting point for projects or skill-building  
+## 🤖 LLM Frameworks
+
+| Repo | Stars | Description |
+|---|---|---|
+| [LangChain](https://github.com/langchain-ai/langchain) | ⭐ 90k+ | Framework for building LLM-powered apps and pipelines |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | ⭐ 35k+ | Data framework for LLM apps — RAG, agents, workflows |
+| [Hugging Face Transformers](https://github.com/huggingface/transformers) | ⭐ 130k+ | State-of-the-art NLP models and training scripts |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | ⭐ 22k+ | Microsoft's SDK for integrating AI into apps |
+| [Haystack](https://github.com/deepset-ai/haystack) | ⭐ 17k+ | LLM orchestration framework for production pipelines |
+| [DSPy](https://github.com/stanfordnlp/dspy) | ⭐ 18k+ | Stanford's framework for programming LLMs systematically |
+| [Instructor](https://github.com/jxnl/instructor) | ⭐ 8k+ | Structured outputs from LLMs using Pydantic |
+
+---
+
+## 🧠 AI Agents
+
+| Repo | Stars | Description |
+|---|---|---|
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 167k+ | Experimental autonomous GPT-4 agent |
+| [AgentGPT](https://github.com/reworkd/AgentGPT) | ⭐ 31k+ | Browser-based autonomous AI agent platform |
+| [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | ⭐ 52k+ | AI that builds entire codebases from prompts |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | ⭐ 44k+ | Multi-agent framework that simulates a software company |
+| [CrewAI](https://github.com/joaomdmoura/crewAI) | ⭐ 20k+ | Framework for orchestrating role-playing AI agents |
+| [AutoGen](https://github.com/microsoft/autogen) | ⭐ 32k+ | Microsoft's framework for multi-agent conversations |
+| [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) | ⭐ 5k+ | Practical patterns for taking AI agents to production |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | ⭐ 15k+ | Open-source autonomous AI agent infrastructure |
+
+---
+
+## 🎨 Generative AI & Image
+
+| Repo | Stars | Description |
+|---|---|---|
+| [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ⭐ 140k+ | Browser UI for Stable Diffusion image generation |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | ⭐ 55k+ | Powerful node-based GUI for Stable Diffusion |
+| [Awesome GenAI](https://github.com/steven2358/awesome-generative-ai) | ⭐ 6k+ | Curated list of generative AI tools and projects |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | ⭐ 40k+ | Simplified Stable Diffusion image generator |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | ⭐ 23k+ | Professional creative AI tools for image generation |
+
+---
+
+## 📚 Learning Resources
+
+| Repo | Stars | Description |
+|---|---|---|
+| [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) | ⭐ 5k+ | Roadmap to become an AI Engineer with GenAI projects |
+| [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) | ⭐ 16k+ | Curated large language model papers and resources |
+| [AI Terminology](https://github.com/piotr-liszka/ai-terminology) | ⭐ 1k+ | Glossary of AI, ML, and GenAI terms for engineers |
+| [OpenAI Cookbook](https://github.com/openai/openai-cookbook) | ⭐ 60k+ | Practical examples for building with OpenAI APIs |
+| [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) | ⭐ 25k+ | Google's guide to hyperparameter tuning for deep learning |
+| [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | ⭐ 23k+ | Bare-bones Python implementations of ML algorithms |
+| [Made With ML](https://github.com/GokuMohandas/Made-With-ML) | ⭐ 37k+ | Learn to design, develop and deploy ML systems |
+| [LLM Course](https://github.com/mlabonne/llm-course) | ⭐ 38k+ | Course to get into Large Language Models with roadmaps |
+
+---
+
+## 🛠️ Dev Tools & Productivity
+
+| Repo | Stars | Description |
+|---|---|---|
+| [OpenAI Whisper](https://github.com/openai/whisper) | ⭐ 68k+ | General-purpose speech recognition model by OpenAI |
+| [LiteLLM](https://github.com/BerriAI/litellm) | ⭐ 13k+ | Call 100+ LLMs using the same OpenAI format |
+| [Embedchain](https://github.com/embedchain/embedchain) | ⭐ 9k+ | Framework to create RAG bots over any dataset |
+| [Outlines](https://github.com/outlines-dev/outlines) | ⭐ 9k+ | Structured text generation from LLMs |
+| [Guidance](https://github.com/guidance-ai/guidance) | ⭐ 18k+ | Control LLM output structure efficiently |
+| [Promptflow](https://github.com/microsoft/promptflow) | ⭐ 9k+ | Microsoft's tool for building and evaluating LLM apps |
+
+---
+
+## 💬 Chat & Assistant UIs
+
+| Repo | Stars | Description |
+|---|---|---|
+| [Open WebUI](https://github.com/open-webui/open-webui) | ⭐ 45k+ | Feature-rich ChatGPT-style UI for local LLMs |
+| [Lobe Chat](https://github.com/lobehub/lobe-chat) | ⭐ 45k+ | Modern ChatGPT/Claude UI with plugin support |
+| [LibreChat](https://github.com/danny-avila/LibreChat) | ⭐ 19k+ | All-in-one AI chat platform supporting 20+ models |
+| [ChatBot UI](https://github.com/mckaywrigley/chatbot-ui) | ⭐ 28k+ | Open-source ChatGPT-style UI by McKay Wrigley |
+| [Jan](https://github.com/janhq/jan) | ⭐ 23k+ | Offline ChatGPT alternative that runs on your computer |
+
+---
+
+## 🔍 RAG & Vector Databases
+
+| Repo | Stars | Description |
+|---|---|---|
+| [Chroma](https://github.com/chroma-core/chroma) | ⭐ 14k+ | AI-native open-source embedding database |
+| [Weaviate](https://github.com/weaviate/weaviate) | ⭐ 11k+ | Cloud-native vector database for ML applications |
+| [Milvus](https://github.com/milvus-io/milvus) | ⭐ 30k+ | High-performance vector database for AI applications |
+| [FAISS](https://github.com/facebookresearch/faiss) | ⭐ 30k+ | Facebook's library for efficient similarity search |
+| [Qdrant](https://github.com/qdrant/qdrant) | ⭐ 20k+ | Vector search engine and database for AI applications |
+
+---
+
+## ⚡ Local LLMs
+
+| Repo | Stars | Description |
+|---|---|---|
+| [Ollama](https://github.com/ollama/ollama) | ⭐ 90k+ | Run LLaMA, Mistral, Gemma locally in one command |
+| [LM Studio](https://github.com/lmstudio-ai) | ⭐ Popular | Desktop app to run local LLMs with a friendly UI |
+| [GPT4All](https://github.com/nomic-ai/gpt4all) | ⭐ 70k+ | Run powerful LLMs locally on CPU and GPU |
+| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | ⭐ 40k+ | Gradio web UI for running LLMs locally |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | ⭐ 65k+ | Run LLaMA models with pure C/C++ — ultra-fast |
+
+---
+
+## 🤝 Contributing
+
+Know a great AI/GenAI repo that should be here?
+1. Fork this repo
+2. Add the repo to the correct category
+3. Submit a Pull Request
+
+All contributions welcome! ⭐
+
+---
+
+## ⭐ Support
+
+If this list saved you time or helped you discover something new:
+**Star this repo** — it helps others find it too!
+
+---
+
+*Updated weekly by [@aneelv75](https://github.com/aneelv75)*
