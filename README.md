@@ -29,6 +29,14 @@ Perfect for developers, learners, and AI enthusiasts who want to **stay ahead in
 | [Awesome GenAI](https://github.com/elyase/awesome-genai) | Curated list of generative AI tools, demos, and projects. |
 | [AI-Playground](https://github.com/suno-ai/ai-playground) | Collection of interactive AI demos and experiments to test models quickly. |
 | [AgentGPT](https://github.com/AgentGPT/AgentGPT) | Open-source framework to build and deploy AI agents with minimal setup. |
+## 📌 Table of Contents
+- [🔥 Featured Repos](#-featured-repos)
+- [🤖 LLM Frameworks](#-llm-frameworks)
+- [🧠 AI Agents](#-ai-agents)
+- [📚 Learning Resources](#-learning-resources)
+- [🛠️ Dev Tools](#️-dev-tools)
+
+
 
 
 
@@ -38,5 +46,3 @@ Perfect for developers, learners, and AI enthusiasts who want to **stay ahead in
 - Updated regularly with trending AI repos  
 - Hand-picked resources for learning, building, and deploying AI  
 - Perfect starting point for projects or skill-building  
-
-⭐ **If you find it useful, consider starring this repo!**
