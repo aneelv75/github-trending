@@ -88,7 +88,7 @@ Updated weekly. Perfect for developers, learners, and AI enthusiasts who want to
 | [Outlines](https://github.com/outlines-dev/outlines) | ⭐ 9k+ | Structured text generation from LLMs |
 | [Guidance](https://github.com/guidance-ai/guidance) | ⭐ 18k+ | Control LLM output structure efficiently |
 | [Promptflow](https://github.com/microsoft/promptflow) | ⭐ 9k+ | Microsoft's tool for building and evaluating LLM apps |
-
+| [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) | ⭐ 105k+ | The complete agent harness and configuration system for Claude Code |
 ---
 
 ## 💬 Chat & Assistant UIs
